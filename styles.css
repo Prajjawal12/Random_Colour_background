@@ -1,0 +1,29 @@
+*{
+  padding:0;
+  margin:0;
+
+}
+body {
+  background-color: #F7EC09;
+  display: grid;
+  height: 100vh;
+  place-items:center;
+}
+button {
+  font-family: 'Mukta', sans-serif;
+  font-size: 20px;
+  padding: 10px 35px;
+  border-radius: 15px;
+  background-color: transparent;
+  letter-spacing: 2px;
+  border: 5px solid white;
+  color:#ffffff;
+  cursor: pointer;
+  outline: none;
+}
+
+/*button:hover {
+  background-color: #F5DF99;
+  color:#51557E;
+}
+*/
